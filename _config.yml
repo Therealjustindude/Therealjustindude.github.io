@@ -1,11 +1,11 @@
 # Site settings
 author: Justin Davies
-title: 
+title: My Software Engineering Blog
 header-img: img/home-bg.png
 email: therealjustindude@gmail.com
 copyright_name: Justin Davies
 description: > # this means to ignore newlines until "baseurl:"
-  
+  All My Effort 
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  Therealjustindude
