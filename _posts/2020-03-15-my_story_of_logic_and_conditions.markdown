@@ -1,12 +1,12 @@
 ---
 layout: post
 title:      "My story of Logic and Conditions"
-date:       2020-03-15 16:55:14 +0000
+date:       2020-03-15 12:55:14 -0400
 permalink:  my_story_of_logic_and_conditions
 ---
 
 
-	“We are, as a species, addicted to story. Even when the body goes to sleep, the mind stays up all night, telling itself stories.” — Jonathan Gottschall, The Storytelling Animal: How Stories Make Us Human. We can learn with logic how to navigate through conditionals by listening to others stories. Also, story is a great way to teach logic and conditions. Logic and conditions help you create metaphors for life. Example, If  hungry a search for food will occur. Many conditions can pop up during a search for food. The logic you use when encountering those conditions is what helps navigate the story to an end.
+> “We are, as a species, addicted to story. Even when the body goes to sleep, the mind stays up all night, telling itself stories.” — Jonathan Gottschall, The Storytelling Animal: How Stories Make Us Human. We can learn with logic how to navigate through conditionals by listening to others stories. Also, story is a great way to teach logic and conditions. Logic and conditions help you create metaphors for life. Example, If  hungry a search for food will occur. Many conditions can pop up during a search for food. The logic you use when encountering those conditions is what helps navigate the story to an end.
 	
  	I started FlatIron School with a growth mind set. Telling my self a story. It goes like this: If I am struggling to understand something I will keep my inner dialogue positive. I will use all my resources(curiosity, ask for help, prioritize, google) and turn mistakes into growth opportunities. If I don’t find answers, I will not give up, I will loop back to the beginning. 
 	
