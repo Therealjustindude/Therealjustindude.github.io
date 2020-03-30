@@ -1,6 +1,6 @@
 ---
 layout: post
-title:      "My CLI project Blog"
+title:      "My CLI project Blog # "
 date:       2020-03-30 17:42:24 -0400
 permalink:  my_cli_project_blog
 ---
