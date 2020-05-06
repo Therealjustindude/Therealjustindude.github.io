@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Doing Labs Locally"
-date:       2020-05-06 18:14:16 +0000
+date:       2020-05-06 14:14:17 -0400
 permalink:  doing_labs_locally
 ---
 
